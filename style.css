@@ -44,3 +44,6 @@ background-image: url("image/dream-bg.png");
 background-repeat: no-repeat;
 background-position: right;
  }
+ .orange-highlight{
+  color: orange;
+ }
